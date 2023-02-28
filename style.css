@@ -110,7 +110,7 @@ margin-bottom: 1.56rem;
 @media (max-width: 400px){
     #container{    
     grid-template-columns: 1fr;
-    grid-template-rows: auto 1fr;    
+    grid-template-rows: 1fr;    
     border-radius: 10px 10px 10px 10px ;
  }
     #container-img{
